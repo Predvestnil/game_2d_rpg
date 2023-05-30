@@ -11,6 +11,11 @@ For download project:
    g++ -o program game_2d_rpg/ConsoleApplication1.cpp
 ```
 
+VIDEO of PLAY:
+
+
+
+https://github.com/Predvestnil/game_2d_rpg/assets/30040834/713a9692-739c-4115-9b5f-f1ce1386af71
 
 
 ____
